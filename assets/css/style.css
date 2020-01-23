@@ -19,7 +19,7 @@ p {
   background-color: #FFC107;
   color: #fff;
 }
-.nav-item a {
+.navbar-dark .navbar-nav .nav-link{
   color: #fff;
 }
 .text-nav {
