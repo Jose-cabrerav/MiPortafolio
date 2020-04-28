@@ -55,11 +55,10 @@ p {
   display: inline-block;
 }
 .ico2 {
-  color: #FF8F00;
+  color: #f34b00;
 }
 .bg-color-work {
-  background-color: #FFC107;
-}
+  background-color: #f34b00
 .exp {
   margin-bottom: 5em;
 }
@@ -76,7 +75,7 @@ p {
   width: 5%;
 }
 .footer {
-  background-color: #FFC107;
+  background-color: #f34b00;
 
 }
 .txt3-f {
@@ -93,7 +92,7 @@ p {
   height: 150px;
 }
 .footer{
-  background-color: #FFC107;
+  background-color: #f34b00;
   text-align: center;
   width: 100%;
   height: 100%;
